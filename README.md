@@ -1,2 +1,2 @@
 # CS176L
-#My name is Thomas
+My name is Thomas
