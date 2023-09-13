@@ -1,1 +1,2 @@
-# My name is Thomas F
+# CS176L
+# My name is Thomas
