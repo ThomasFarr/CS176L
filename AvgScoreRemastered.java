@@ -33,7 +33,7 @@ public class AvgScoreRemastered {
 			Scanner score = new Scanner(System.in);
 			System.out.print("Give me the score for Exam " + testnumber +": ");
 			int testscore = score.nextInt();
-			if (testscore < MAXSCORE && testscore > MINSCORE) {
+			if (testscore <= MAXSCORE && testscore >= MINSCORE) {
 				totalscore += testscore;
 				testnumber += 1;
 			} else {
