@@ -41,7 +41,7 @@ public class AvgScoreRemastered {
 			}
 		}
 		double average = (totalscore / testsTaken);
-		System.out.println("Hi, "+ Name + ", your average score of "+ testsTaken +" is "+ average);
+		System.out.println("Hi, "+ Name + ", your average score of "+ testsTaken +"exams is "+ average);
 		}
 		
 		
